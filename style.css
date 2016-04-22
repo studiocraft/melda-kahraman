@@ -1,0 +1,233 @@
+/* General, overall styling */
+body {
+  background: #F9F9F9;
+  font-size: 0.9em;
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 100px;
+}
+
+em {
+  color: #999;
+}
+
+p {
+  line-height: 1.4;
+}
+
+h1,
+h2 {
+  color: #FF4136;
+}
+
+a {
+  color: #0074D9;
+}
+
+a:visited {
+  color: #B10DC9;
+}
+
+a:hover {
+  color: #001f3f;
+}
+
+ul {
+  margin-bottom: 0;
+  list-style: circle;
+}
+
+ul.inline {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  margin-bottom: 2em;
+  padding-bottom: .5em;
+  border-bottom: 1px #E2E2E2 solid;
+}
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+  box-sizing: border-box;
+}
+
+blockquote {
+  margin: 0;
+  margin-bottom: 1em;
+}
+
+::selection {
+  color: #FFFFFF;
+  background-color: #FF4136
+}
+
+::moz-selection {
+  color: #FFFFFF;
+  background-color: #FF4136
+}
+
+/* End general, overall styling */
+
+/* Header name styling */
+
+header {
+  background: #FF4136;
+  padding: 50px;
+  margin-bottom: 50px;
+}
+
+header h1 {
+  color: #FFFFFF;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+header h2 {
+  color: #F3F3F3;
+  font-size: 1em;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* End header name styling */
+
+/* Set width of main body of CV */
+.container {
+  max-width: 700px;
+  padding: 0 50px;
+  margin: 0 auto;
+}
+
+/* End */
+
+/* Styling Basics (Name, Contact, About, Profiles) */
+
+#basics {
+  margin-bottom: 10px;
+  border-bottom: 1px #E2E2E2 solid;
+}
+#basics h3 {
+  margin-top: 1.5em;
+  margin-bottom: 10px;
+}
+#basics .contact strong {
+  line-height: 1.3;
+  float: left;
+  width: 80px;
+}
+
+.contact h3 {
+  padding-bottom: 10px;
+}
+
+.website,
+.email,
+.phone {
+  margin-bottom: 10px;
+  float: left;
+  width: 50%;
+}
+
+.summary {
+  padding-top: 5px;
+  clear: both;
+}
+
+#profiles {
+  overflow: hidden;
+}
+
+#profiles .item {
+  float: left;
+  width: 50%;
+}
+
+.username{
+  margin-top: 10px;
+}
+
+/* End 'Basics' Styling */
+
+/* Work and volunteering experience styling */
+
+.experience_date,
+.experience_position,
+.experience_website {
+  list-style: none;
+  display: inline-block;
+  width: 33%;
+}
+
+.study_date,
+.gpa,
+.psy_index {
+  margin-bottom: 10px;
+  float: left;
+  width: 33%;
+}
+
+.courses {
+  clear: both;
+}
+
+.dissertation {
+  margin-top: 10px;
+}
+
+#work,
+#volunteer,
+#education,
+#conferences.
+#awards {
+
+}
+
+#work .item,
+#volunteer .item,
+#education .item,
+#awards .item,
+#membership .item,
+#references .item {
+  margin: 25px 0;
+}
+
+/* End work and volunteering */
+
+/* Skills, languages, interests and references styling */
+
+#skills {
+  margin-bottom: 10px;
+  border-bottom: 1px #E2E2E2 solid;
+  padding-bottom: 5px;
+}
+
+#skills .item,
+#languages .item,
+#conferences .item {
+  margin: 0 0 25px 0;
+}
+
+#interests .item {
+  margin-bottom: 25px;
+}
+
+#skills {
+  overflow: hidden;
+}
+
+#languages .item,
+#interests .item,
+#skills .item {
+  float: left;
+  width: 50%;
+}
+
+#references,
+#interests {
+  clear: both;
+}
+
+/* End styling */
