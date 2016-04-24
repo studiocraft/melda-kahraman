@@ -217,19 +217,21 @@
   "skills": [
     {
       "name": "OSX & Windows",
-      "level": "Proficient",
+      "level": "Experienced",
       "keywords": [
         "Microsoft Office",
-        "Google Drive",
-        "Matlab",
-        "SPSS"
+        "Google Drive"
       ]
     },
     {
-      "name": "Research Writing",
-      "level": "Experience",
+      "name": "Neuroscience & Psychology Research",
+      "level": "Experienced",
       "keywords": [
-        "APA"
+        "APA Format",
+        "Matlab",
+        "SPSS",
+        "EEG (emotiv)",
+        "TestBench"
       ]
     }
   ],
