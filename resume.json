@@ -1,0 +1,297 @@
+{
+  "basics": {
+    "name": "Hasibe Melda Kahraman",
+    "label": "Psychology Undergraduate Student",
+    "picture": "",
+    "email": "hasibemelda.kahraman@gmail.com",
+    "phone": "(917) 834-7557",
+    "website": "",
+    "summary": "Melda is 24 years of age and lives on the Upper East Side. She currently is a Psychology Undergraduate Student with a concentration in Child Development.",
+    "location": {
+      "address": "171 E 74th St",
+      "postalCode": "NY 10021",
+      "city": "New York",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Hunter College",
+      "area": "Psychology",
+      "studyType": "Bachelor",
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "gpa": "4.0",
+      "psyIndex": "4.0",
+      "courses": [
+        "Child Development",
+        "Human Development",
+        "Social Work",
+        "Exceptional Childhoods",
+        "Social Psychology",
+        "Memory and Attention",
+        "Statistical Methods in Psychology",
+        "General Experimental Psychology",
+        "Personality Psychology",
+        "Cognitive Neuroscience",
+        "Education",
+        "Child Developmental Psychology",
+        "Statistics Practicum in Psychology",
+        "Health Psychology"
+      ]
+    },
+    {
+      "institution": "Burrough of Manhattan Community College (BMCC)",
+      "area": "Liberal Arts",
+      "studyType": "Associate",
+      "startDate": "2013-01-01",
+      "endDate": "2014-12-01",
+      "gpa": "",
+      "psyIndex": "",
+      "courses": [
+        "General Psychology",
+        "Social Psychology"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Teacher Assistant for Statistical Methods in Psychology",
+      "position": "Teacher Assistant",
+      "lab": "",
+      "website": "",
+      "startDate": "2016-01-01",
+      "endDate": "",
+      "summary": "One-on-one tutoring with undergraduates, grading assignments, and updating online grade records. Maintaining weekly office-hours, and assisting the instructor in the classroom with SPSS assignments. Providing students with test preparartion.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "New York University, Departments of Psychology & Neural Science",
+      "position": "Research Assistant",
+      "lab": "Mutual Brainwaves Lab, David Poeppel Lab",
+      "website": "",
+      "startDate": "2015-05-15",
+      "endDate": "",
+      "summary": "Preprocessing EEG data using Matlab, study setup & organization, and assiting with TestBench software for EEG & applying Emotiv headset hardware to collect participants' data.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Independent Research - Hunter College",
+      "position": "Student Researcher",
+      "lab": "Experimental Psychology",
+      "website": "",
+      "startDate": "2015-08-15",
+      "endDate": "2015-12-15",
+      "summary": "Recruited participants, collected data, analyzed results using SPSS for The Relationship between Sleep, Eating Habits and Stress study.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "The Co-op School",
+      "position": "Teaching Assistant",
+      "lab": "",
+      "website": "http://thecoopschool.org/",
+      "startDate": "2015-01-15",
+      "endDate": "2015-06-15",
+      "summary": "Facilitated a variety of small group lessons prepared by the classroom teachers. Worked with the children throughout each day's scheduled activities including Choice Time, Playground Time, Independent and Small Group Reading Time as well as snack and lunch.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Private Math, Science and English Tutor",
+      "position": "Tutor",
+      "lab": "",
+      "website": "",
+      "startDate": "2011-09",
+      "endDate": "2013-03",
+      "summary": "Teaching effective reading & writing skills, and problem-solving lessons. Demonstrating SPSS and interpreating statistical data.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Evangelical-Lutheran Kindergarten",
+      "position": "Intern",
+      "lab": "",
+      "website": "http://12-apostel-del.de/",
+      "startDate": "2010-07-10",
+      "endDate": "2011-07-11",
+      "summary": "Worked with kindergarten classroom consisting of 25 children ages 3 to 6 to organize learning activites, projects, and assisting teachers with daily lesson plans. Lead the children in several lessons and morning activites.",
+      "highlights": [
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "World Science Festival",
+      "position": "Festival Volunteer",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Table presentation of Mutual Brainwave Lab, recruiting participants,  handling consent forms & questionaires, and debriefing participants.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "American Museum of Natural History",
+      "position": "Interactive Coordinator",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Table presentation of Mutual Brainwave Lab for Brain Awareness Week.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Women’s Resource Center at BMCC",
+      "position": "Volunteer",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Assiting to organize Making Strides Against Breast Cancer Walk 2014, and other organizational tasks for the front-desk.",
+      "highlights": [
+      ]
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "Dean’s List",
+      "date": "All Semesters",
+      "awarder": "Hunter College",
+      "summary": ""
+    },
+    {
+      "title": "Psychology Honor’s Program",
+      "date": "2016-04-20",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Psi Chi International Honors Society in Psychology",
+      "date": "2016-03-01",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "BMCC Foundation, Inc. Scholarship",
+      "date": "2014 to 2015",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+
+  "membership": [
+    {
+      "name": "Psychology Club",
+      "year": "2016"
+    },
+    {
+      "name": "International Student Club",
+      "year": "2015"
+    },
+    {
+      "name": "American Cancer Society",
+      "year": "2014"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "OSX & Windows",
+      "level": "Proficient",
+      "keywords": [
+        "Microsoft Office",
+        "Google Drive",
+        "Matlab",
+        "SPSS"
+      ]
+    },
+    {
+      "name": "Research Writing",
+      "level": "Experience",
+      "keywords": [
+        "APA"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Turkish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ],
+  "conferences": [
+    {
+      "name": "44th Hunter College Psychology Convention",
+      "year": "2016",
+      "highlights": [
+        "Symposium Operator",
+        "Presenter Announcements"
+      ]
+    },
+    {
+      "name": "Neuroleadership Summit",
+      "year": "2015",
+      "highlights": [
+        "Table presentation of Mutual Brainwave Lab"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Education",
+      "keywords": [
+        "Curriculum",
+        "Early Child Development"
+      ]
+    },
+    {
+      "name": "Neuroscience",
+      "keywords": [
+        "EEG",
+        "Neuroscience Education"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Stephen Canino",
+      "reference": "Melda’s performance and positive energy in the classroom have been exceptional. It is with heavy hearts that the Dragonflies and their teachers will bid her farewell in the coming weeks."
+    },
+    {
+      "name": "H. Preuß, Director of the Kindergarten",
+      "reference": "[She] was very popular the children and the teachers. Overall, her practical consignment was very succesful. We can sincerely reccommend [her]."
+    }
+  ]
+}
