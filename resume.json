@@ -33,8 +33,6 @@
       "psyIndex": "4.0",
       "courses": [
         "Child Development",
-        "Human Development",
-        "Social Work",
         "Exceptional Childhoods",
         "Social Psychology",
         "Memory and Attention",
@@ -43,13 +41,12 @@
         "Personality Psychology",
         "Cognitive Neuroscience",
         "Education",
-        "Child Developmental Psychology",
         "Statistics Practicum in Psychology",
         "Health Psychology"
       ]
     },
     {
-      "institution": "Burrough of Manhattan Community College (BMCC)",
+      "institution": "Borough of Manhattan Community College (BMCC)",
       "area": "Liberal Arts",
       "studyType": "Associate",
       "startDate": "2013-01-01",
@@ -77,7 +74,7 @@
     {
       "company": "New York University, Departments of Psychology & Neural Science",
       "position": "Research Assistant",
-      "lab": "Mutual Wave Machine, David Poeppel Lab",
+      "lab": "Mutual Brainwave Lab, David Poeppel Lab",
       "website": "",
       "startDate": "2015-05-15",
       "endDate": "",
@@ -119,7 +116,7 @@
       ]
     },
     {
-      "company": "Evangelical-Lutheran Kindergarten",
+      "company": "Zu den 12 Aposteln Kindergarten Germany",
       "position": "Intern",
       "lab": "",
       "website": "http://12-apostel-del.de/",
@@ -137,7 +134,7 @@
       "website": "",
       "startDate": "",
       "endDate": "",
-      "summary": "Recruiting participants, handling consent forms & questionaires, and debriefing participants for the Mutaul Wave Machine neurscience experiment that demonstrates brainwave synchronization.",
+      "summary": "Recruiting participants, handling consent forms & questionaires, and debriefing participants for the Mutual Wave Machine neurscience experiment that demonstrates brainwave synchronization.",
       "highlights": [
       ]
     },
